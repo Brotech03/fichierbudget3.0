@@ -1,6 +1,69 @@
 {
 "documents": [
   {
+    "id": "loi-finances-rectificative-2020",
+    "title": "LOI DE FINANCES RECTIFICATIVE 2020",
+    "description": "Loi de Finances Rectificative (LFR) pour l'année 2020.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Texte-de-loi-LFR-2020_Promulgu%C3%A9.pdf",
+    "keywords": ["lfr", "loi", "finances", "rectificative", "2020"]
+  },
+  {
+    "id": "loi-finances-2020",
+    "title": "LOI DE FINANCES 2020",
+    "description": "Loi de Finances (LF) pour l'année 2020.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/01/Texte-de-loi-LF-2020-adopt%C3%A9.pdf",
+    "keywords": ["lf", "lfi", "loi", "finances", "2020"]
+  },
+  {
+    "id": "loi-finances-initiale-2022",
+    "title": "LOI DE FINANCES INITIALE 2022",
+    "description": "Loi de Finances Initiale (LFI) pour l'année 2022.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2022/02/Loi-de-Finances-2022-avec-annexes-et-repartition-des-credits.pdf",
+    "keywords": ["lfi", "loi", "finances", "initiale", "2022"]
+  },
+  {
+    "id": "loi-finances-rectificative-2022",
+    "title": "LOI DE FINANCES RECTIFICATIVE 2022",
+    "description": "Loi de Finances Rectificative (LFR) pour l'année 2022.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2022/09/Loi-L-2022-N%C2%B0-0009-CNT-PORTANT-LOI-DE-FINANCES-RECTIFICATIVE-POUR-LANNEE-2022.pdf",
+    "keywords": ["lfr", "loi", "finances", "rectificative", "2022"]
+  },
+  {
+    "id": "loi-finances-2023",
+    "title": "LOI DE FINANCES 2023",
+    "description": "Loi de Finances (LF) pour l'année 2023.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/loi-de-finances-en-vigueur2023.pdf",
+    "keywords": ["lf", "lfi", "loi", "finances", "2023"]
+  },
+  {
+    "id": "loi-finances-rectificative-2024",
+    "title": "LOI DE FINANCES RECTIFICATIVE 2024",
+    "description": "Loi de Finances Rectificative (LFR) pour l'année 2024.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/loi-de-finances-2024-1.pdf",
+    "keywords": ["lfr", "loi", "finances", "rectificative", "2024"]
+  },
+  {
+    "id": "loi-finances-initiale-2025",
+    "title": "LOI DE FINANCES INITIALE 2025",
+    "description": "Loi de Finances Initiale (LFI) pour l'année 2025.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/loi-de-finances-en-vigueur.pdf",
+    "keywords": ["lfi", "loi", "finances", "initiale", "2025"]
+  },
+  {
+    "id": "loi-de-finance-rectificatif-2021",
+    "title": "Loi de Finance rectificatif 2021",
+    "description": "Loi de Finances Rectificative (LFR) pour l'année 2021.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2021/10/Texte-LFR-2021-adopte.pdf",
+    "keywords": ["lfr", "loi", "finances", "rectificatif", "2021"]
+  },
+  {
+    "id": "projet-de-loi-de-finances-initiale-2021",
+    "title": "PROJET DE LOI DE FINANCES INITIALE 2021",
+    "description": "Projet de Loi de Finances Initiale (PLFI) pour l'année 2021.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Rapport-de-pr%C3%A7sentation-PLF-2021-.pdf",
+    "keywords": ["plfi", "projet", "lfi", "loi", "finances", "initiale", "2021"]
+  }
+  {
     "id": "decret-promulgation-lfi-2021",
     "title": "Décret portant promulgation de la loi L/2020/0029/AN du 30 décembre 2020 pour la LFI 2021",
     "description": "Texte complet du décret de promulgation de la Loi de Finances Initiale (LFI) pour l'année 2021.",
@@ -18,7 +81,7 @@
     "id": "rapport-presentation-plf-2021",
     "title": "Rapport de présentation PLF 2021",
     "description": "Document accompagnant le Projet de Loi de Finances (PLF) pour l'année 2021.",
-    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Rapport-de-pr%25C3%2587sentation-PLF-2021-.pdf",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Rapport-de-prÇsentation-PLF-2021-.pdf",
     "keywords": ["rapport", "présentation", "PLF", "2021", "budget"]
   },
   {
@@ -32,14 +95,14 @@
     "id": "synthese-depenses-plf-2021",
     "title": "Synthèse des dépenses PLF 2021",
     "description": "Document de synthèse récapitulant les dépenses prévues dans le Projet de Loi de Finances (PLF) 2021.",
-    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Synth%25C3%25A4se-des-d%25C3%2587penses-PLF-2021.pdf",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Synthäse-des-dÇpenses-PLF-2021.pdf",
     "keywords": ["synthèse", "dépenses", "PLF", "2021", "budget"]
   },
   {
     "id": "detail-credits-investissement-ministere-2021",
     "title": "Détial des crédits d’investissement par Ministère- PLF 2021",
     "description": "Détail des crédits alloués aux investissements, ventilés par ministère, dans le cadre du PLF 2021.",
-    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/D%25C3%2587tal-des-cr%25C3%2587dits-dinvestissement-par-Minist%25C3%25A4re-PLF-2021.pdf",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/D%C3%87tal-des-cr%C3%87dits-dinvestissement-par-Minist%C3%A4re-PLF-2021.pdf",
     "keywords": ["détail", "crédits", "investissement", "ministère", "PLF", "2021"]
   },
   {
@@ -615,85 +678,85 @@
      "description": "Analyse détaillée des dépenses fiscales de l'État guinéen",
      "Url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-evaluation-des-depenses-fiscales.pdf",
      "keywords": ["évaluation", "dépenses", "fiscales", "analyse", "fiscalité"]
-    },
-    {
-      "id": "rapport-execution-budget-2024",
-      "title": "Rapport d'exécution du budget de l'Etat au titre de l'exercice 2024 version du 14 avril 2025+DGB",
-      "description": "Rapport complet sur l'exécution du budget de l'État pour l'année 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-execution-du-budget-de-l-etat-au-titre-de-l-exercice-2024-version-du-14-avril-2025-dgb.pdf",
-      "keywords": ["exécution", "budget", "2024", "rapport", "état"]
-    },
-    {
-      "id": "rapport-delais-juin-2024",
-      "title": "Rapport sur les délais Juin 2024",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Juin 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-juin-2024.pdf",
-      "keywords": ["délais", "juin", "2024", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-mai-2024",
-      "title": "Rapport sur les délais Mai 2024",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Mai 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-mai-2024.pdf",
-      "keywords": ["délais", "mai", "2024", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-avril-2024",
-      "title": "Rapport sur les délais d'avril 2024",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Avril 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-d-avril-2024.pdf",
-      "keywords": ["délais", "avril", "2024", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-mars-2024",
-      "title": "Rapport sur les délais Mars 2024",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Mars 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-mars-2024.pdf",
-      "keywords": ["délais", "mars", "2024", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-fevrier-2024",
-      "title": "Rapport sur les délais Février 2024",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Février 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-fevrier-2024.pdf",
-      "keywords": ["délais", "février", "2024", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-janvier-2024",
-      "title": "Rapport sur les délais Janvier 2024",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Janvier 2024",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-janvier-2024.pdf",
-      "keywords": ["délais", "janvier", "2024", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-decembre-2023",
-      "title": "Rapport sur les délais de Décembre 2023",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Décembre 2023",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-de-decembre-2023.pdf",
-      "keywords": ["délais", "décembre", "2023", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-novembre-2023",
-      "title": "Rapport sur les délais novembre 2023",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Novembre 2023",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-novembre-2023.pdf",
-      "keywords": ["délais", "novembre", "2023", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-delais-octobre-2023",
-      "title": "Rapport sur les délais d'Octobre 2023",
-      "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Octobre 2023",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-d-octobre-2023.pdf",
-      "keywords": ["délais", "octobre", "2023", "dépense", "publique"]
-    },
-    {
-      "id": "rapport-execution-budget-septembre-2023",
-      "title": "Rapport d'exécution du Budget à fin septembre 2023",
-      "description": "Rapport sur l'exécution du budget à fin septembre 2023",
-      "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-execution-du-budget-a-fin-septembre-2023.pdf",
-      "keywords": ["exécution", "budget", "septembre", "2023", "rapport"]
-    },
-    {
+  },
+  {
+     "id": "rapport-execution-budget-2024",
+     "title": "Rapport d'exécution du budget de l'Etat au titre de l'exercice 2024 version du 14 avril 2025+DGB",
+     "description": "Rapport complet sur l'exécution du budget de l'État pour l'année 2024",
+     "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-execution-du-budget-de-l-etat-au-titre-de-l-exercice-2024-version-du-14-avril-2025-dgb.pdf",
+     "keywords": ["exécution", "budget", "2024", "rapport", "état"]
+  },
+  {
+     "id": "rapport-delais-juin-2024",
+     "title": "Rapport sur les délais Juin 2024",
+     "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Juin 2024",
+     "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-juin-2024.pdf",
+     "keywords": ["délais", "juin", "2024", "dépense", "publique"]
+  },
+  {
+     "id": "rapport-delais-mai-2024",
+     "title": "Rapport sur les délais Mai 2024",
+     "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Mai 2024",
+     "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-mai-2024.pdf",
+     "keywords": ["délais", "mai", "2024", "dépense", "publique"]
+  }, 
+  {
+    "id": "rapport-delais-avril-2024",
+    "title": "Rapport sur les délais d'avril 2024",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Avril 2024",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-d-avril-2024.pdf",
+    "keywords": ["délais", "avril", "2024", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-delais-mars-2024",
+    "title": "Rapport sur les délais Mars 2024",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Mars 2024",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-mars-2024.pdf",
+    "keywords": ["délais", "mars", "2024", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-delais-fevrier-2024",
+    "title": "Rapport sur les délais Février 2024",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Février 2024",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-fevrier-2024.pdf",
+    "keywords": ["délais", "février", "2024", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-delais-janvier-2024",
+    "title": "Rapport sur les délais Janvier 2024",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Janvier 2024",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-janvier-2024.pdf",
+    "keywords": ["délais", "janvier", "2024", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-delais-decembre-2023",
+    "title": "Rapport sur les délais de Décembre 2023",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Décembre 2023",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-de-decembre-2023.pdf",
+    "keywords": ["délais", "décembre", "2023", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-delais-novembre-2023",
+    "title": "Rapport sur les délais novembre 2023",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Novembre 2023",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-novembre-2023.pdf",
+   "keywords": ["délais", "novembre", "2023", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-delais-octobre-2023",
+    "title": "Rapport sur les délais d'Octobre 2023",
+    "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Octobre 2023",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-sur-les-delais-d-octobre-2023.pdf",
+    "keywords": ["délais", "octobre", "2023", "dépense", "publique"]
+  },
+  {
+    "id": "rapport-execution-budget-septembre-2023",
+    "title": "Rapport d'exécution du Budget à fin septembre 2023",
+    "description": "Rapport sur l'exécution du budget à fin septembre 2023",
+    "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-execution-du-budget-a-fin-septembre-2023.pdf",
+    "keywords": ["exécution", "budget", "septembre", "2023", "rapport"]
+  },
+  {
       "id": "rapport-delais-septembre-2023",
       "title": "Rapport sur les délais Septembre 2023",
       "description": "Analyse des délais dans la chaîne d'exécution de la dépense publique - Septembre 2023",
@@ -1087,5 +1150,6 @@
     }
   ]
 }
+
 
 
