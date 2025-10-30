@@ -1016,13 +1016,6 @@
   "keywords": ["exécution", "budget", "mars", "2017", "rapport"]
 },
 {
-  "id": "loi-finances-2025",
-  "title": "Loi de Finances Initiale 2025",
-  "description": "Texte complet de la Loi de Finances Initiale pour l'exercice 2025",
-  "url": "https://mbudget.gov.gn/lois-de-finances/lfi-2025.pdf",
-  "keywords": ["lois", "finances", "2025", "lfi", "budget"]
-},
-{
   "id": "loi-finances-2024",
   "title": "Loi de Finances Rectificative 2024",
   "description": "Texte complet de la Loi de Finances Rectificative pour l'exercice 2024",
@@ -1070,13 +1063,6 @@
   "description": "Texte complet de la Loi de Finances Initiale pour l'exercice 2018",
   "url": "https://mbudget.gov.gn/lois-de-finances/lfi-2018.pdf",
   "keywords": ["lois", "finances", "2018", "lfi", "budget"]
-},
-{
-  "id": "decret-promulgation-2025",
-  "title": "Décret de promulgation de la Loi de Finances 2025",
-  "description": "Décret officiel de promulgation de la Loi de Finances pour l'exercice 2025",
-  "url": "https://mbudget.gov.gn/lois-de-finances/decret-promulgation-2025.pdf",
-  "keywords": ["décret", "promulgation", "2025", "lois", "finances"]
 },
 {
   "id": "decret-promulgation-2024",
@@ -1150,6 +1136,7 @@
 }
     ]
 }
+
 
 
 
