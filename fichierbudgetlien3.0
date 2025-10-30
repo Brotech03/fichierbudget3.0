@@ -60,7 +60,7 @@
     "id": "projet-de-loi-de-finances-initiale-2021",
     "title": "PROJET DE LOI DE FINANCES INITIALE 2021",
     "description": "Projet de Loi de Finances Initiale (PLFI) pour l'année 2021.",
-    "url": "https://mbudget.gov.gn/wp-content/uploads/2020/12/Rapport-de-pr%C3%A7sentation-PLF-2021-.pdf",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2021/10/Texte-LFR-2021-adopte.pdf",
     "keywords": ["plfi", "projet", "lfi", "loi", "finances", "initiale", "2021"]
   },
   {
@@ -88,8 +88,8 @@
     "id": "rapport-presentation-plf-2020-vf",
     "title": "Rapport de présentation PLF 2020 _VF",
     "description": "Version finale du rapport de présentation du Projet de Loi de Finances (PLF) pour l'année 2020.",
-    "url": "https://mbudget.gov.gn/wp-content/uploads/2019/11/Rapport-de-pr%25C3%25A9sentation-PLF-2020-_VF.pdf",
-    "keywords": ["rapport", "présentation", "PLF", "2020", "VF"]
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2019/11/Rapport-de-pr%C3%A9sentation-PLF-2020-_VF.pdf",
+    "keywords": ["rapport", "présentation", "PLF", "2020"]
   },
   {
     "id": "synthese-depenses-plf-2021",
@@ -461,6 +461,34 @@
     "description": "Annexe 1 du Cadre Budgétaire à Moyen Terme (CBMT) 2020-2022, présentant la situation des opérations des administrations publiques.",
     "url": "https://mbudget.gov.gn/wp-content/uploads/2019/09/Annexe-1_CBMT-2020-2022-du-27-06-19_DOB.pdf",
     "keywords": ["annexe", "opérations", "administrations", "publiques", "CBMT", "2020", "2022"]
+  },
+  {
+    "id": "guide-elaboration-cdmt-ministeriel-vf",
+    "title": "Guide d'élaboration du CDMT Ministériel",
+    "description": "Guide pour l'élaboration du Cadre de Dépenses à Moyen Terme (CDMT) Ministériel.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2022/03/Guide-delaboration-du-CDMT-Ministeriel-VF.pdf",
+    "keywords": ["guide", "élaboration", "cdmt", "ministériel", "vf"]
+  },
+  {
+    "id": "modalites-evaluation-recettes-depenses-2023",
+    "title": "Modalités évaluation des recettes et des dépenses 2023",
+    "description": "Document décrivant les modalités d'évaluation des recettes et des dépenses pour l'année 2023.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2022/03/Modalites-evaluation-des-recettes-et-des-depenses-2023.docx",
+    "keywords": ["modalités", "évaluation", "recettes", "dépenses", "2023"]
+  },
+  {
+    "id": "tableaux-evaluation-depenses-cadre-budgetaire-2023-2025",
+    "title": "Tableaux évaluation dépenses Cadre budgétaire 2023-2025",
+    "description": "Tableaux Excel pour l'évaluation des dépenses dans le cadre budgétaire pluriannuel 2023-2025.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2022/03/Tableaux-evaluation-depenses-_Cadre-budgetaire-2023-2025.xlsx",
+    "keywords": ["tableaux", "évaluation", "dépenses", "cadre budgétaire", "2023-2025"]
+  },
+  {
+    "id": "tableaux-evaluation-recettes-cadre-budgetaire-2023-2025",
+    "title": "Tableaux évaluation recettes Cadre budgétaire 2023-2025",
+    "description": "Tableaux Excel pour l'évaluation des recettes dans le cadre budgétaire pluriannuel 2023-2025.",
+    "url": "https://mbudget.gov.gn/wp-content/uploads/2022/03/Tableaux-evaluation-recettes-_Cadre-budgetaire-2023-2025.xlsx",
+    "keywords": ["tableaux", "évaluation", "recettes", "cadre budgétaire", "2023-2025"]
   },
   {
     "id": "annexe-2-classification-fonctionnelle-depenses-2020-2022",
@@ -1136,6 +1164,7 @@
 }
     ]
 }
+
 
 
 
