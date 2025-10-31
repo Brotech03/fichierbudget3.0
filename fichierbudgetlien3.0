@@ -886,7 +886,7 @@
   "id": "rapport-execution-budget-jun-2022",
   "title": "Rapport exécution budgétaire fin juin 2022",
   "description": "Rapport d'exécution budgétaire à fin juin 2022",
-  "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-execution-budgetaire-fin-juin-2022.pdf",
+  "url": "https://mbudget.gov.gn/wp-content/uploads/2022/09/Rapport-execution-budgetaire-fin-juin-2022-VF-du-09-08-22.pdf",
   "keywords": ["exécution", "budget", "juin", "2022", "rapport"]
 },
 {
@@ -914,7 +914,7 @@
   "id": "rapport-execution-budget-juin-2021",
   "title": "Rapport d'exécution budgétaire fin juin 2021 VF",
   "description": "Rapport d'exécution budgétaire à fin juin 2021",
-  "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-execution-budgetaire-fin-juin-2021-vf.pdf",
+  "url": "https://mbudget.gov.gn/wp-content/uploads/2021/10/Rapport-execution-budgetaire-fin-juin-2021-VF-.pdf",
   "keywords": ["exécution", "budget", "juin", "2021", "rapport"]
 },
 {
@@ -942,7 +942,7 @@
   "id": "rapport-execution-budget-juin-2020",
   "title": "Rapport d'exécution budgétaire à fin juin 2020",
   "description": "Rapport d'exécution budgétaire à fin juin 2020",
-  "url": "https://mbudget.gov.gn/rapports-sur-lexecution-du-budget-de-letat/rapport-d-execution-budgetaire-a-fin-juin-2020.pdf",
+  "url": "https://mbudget.gov.gn/wp-content/uploads/2020/09/Rapport-dex%C3%A9cution-budg%C3%A9taire-%C3%A0-fin-juin-2020.pdf",
   "keywords": ["exécution", "budget", "juin", "2020", "rapport"]
 },
 {
@@ -1164,6 +1164,7 @@
 }
     ]
 }
+
 
 
 
